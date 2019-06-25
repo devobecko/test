@@ -1,2 +1,3 @@
-(base) Devins-MacBook-Air:Test devinbecker$ git add .
-(base) Devins-MacBook-Air:Test devinbecker$ git commit -m "created test document"
+(base) Devins-MacBook-Air:Test devinbecker$ git add . #adds anything recently changed
+(base) Devins-MacBook-Air:Test devinbecker$ git commit -m "created test document" #commenting--what were the changes?
+(base) Devins-MacBook-Air:Test devinbecker$ git push #putting things on github :)
