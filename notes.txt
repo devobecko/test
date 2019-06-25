@@ -1,0 +1,2 @@
+(base) Devins-MacBook-Air:Test devinbecker$ git add .
+(base) Devins-MacBook-Air:Test devinbecker$ git commit -m "created test document"
